@@ -1,0 +1,6 @@
+jaydeep,50
+jay,60
+prince,70
+henil,80
+krenil,90
+raj,100
